@@ -14,6 +14,7 @@ Sample website with plenty of files for demos
 ## How to Contribute
 Test
 Steps required for deployment
+Please fork this repository and then issue Pull Request
 
 ## Deploy
 Deployment Steps are required
