@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 THis is a sample project. Pretty good journey so far.
+Adding a line for rebase example and then more changes.
 
 
 ## Purpose
