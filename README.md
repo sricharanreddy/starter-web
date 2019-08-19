@@ -21,4 +21,4 @@ Please fork this repository and then issue Pull Request
 Deployment Steps are required
 
 
-Copyright 2019 GIT Training
+Copyright 2019 GIT Training. All rights reserved.
